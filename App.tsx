@@ -6,7 +6,6 @@ export default function App() {
 
   return (
     <View>
-      <Text>TEXT</Text>
     </View>
   );
 }
